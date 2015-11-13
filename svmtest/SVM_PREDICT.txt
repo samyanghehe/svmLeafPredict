@@ -1,27 +1,54 @@
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (10).png 1这里是预测结果，准确率为2/27
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (8).png 1
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (9).png 1
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (10).png 2
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (8).png 2
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (9).png 7
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (10).png 3
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (8).png 3
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (9).png 3
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (10).png 4
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (8).png 4
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (9).png 4
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (10).png 5
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (8).png 5
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (9).png 5
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (10).png 6
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (8).png 6
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (9).png 6
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (10).png 7
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (8).png 7
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (9).png 7
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (10).png 8
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (8).png 8
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (9).png 8
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (10).png 4
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (8).png 9
-C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (9).png 9
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (10).png 1
+这里是预测结果，错误率为2/27
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (8).png 1
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (9).png 1
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (10).png 2
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (8).png 2
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\2 (9).png 7
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (10).png 3
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (8).png 3
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\3 (9).png 3
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (10).png 4
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (8).png 4
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\4 (9).png 4
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (10).png 5
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (8).png 5
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\5 (9).png 5
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (10).png 6
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (8).png 6
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\6 (9).png 6
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (10).png 7
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (8).png 7
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\7 (9).png 7
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (10).png 8
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (8).png 8
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\8 (9).png 8
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (10).png 4
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (8).png 9
+
+C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\9 (9).png 9
+
