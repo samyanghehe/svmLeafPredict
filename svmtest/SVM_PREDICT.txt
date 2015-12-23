@@ -1,5 +1,5 @@
 C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (10).png 1
-这里是预测结果，错误率为2/27
+
 C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (8).png 1
 
 C:\Users\ooxx\Documents\Visual Studio 2010\Projects\svmtest\svmtest\Database\predictleaf\1 (9).png 1
