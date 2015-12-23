@@ -10,8 +10,8 @@
   tips:<br>
     在输出文件中可以看到预测正确率.当然,也可以直接在程序中加入统计函数来自动统计.<br>
     本项目以树叶为数据源来测试.<br>
-    这里是预测结果，错误率为2/27<br/>
-    这只是一个demo<br>
+    [点击这里是预测结果](https://github.com/samyanghehe/svmLeafPredict/blob/master/svmtest/SVM_PREDICT.txt)错误率为2/27<br />
+    上传的这只是一个demo<br>
 
 
 2.如何使用?
